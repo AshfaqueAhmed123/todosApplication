@@ -11,7 +11,7 @@ function createTodo(content) {
   </div>
   <p class="content">${content}</p>
   <div class="remove-btn">
-    <img src="/assets/trash-solid.svg"  onclick="deleteTodo(this.parentElement.parentElement)" />
+    <img src="./assets/trash-solid.svg"  onclick="deleteTodo(this.parentElement.parentElement)" />
   </div>
     `;
   return todo;
