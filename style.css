@@ -111,6 +111,10 @@ body {
   height: 25px;
   margin-right: 20px;
   cursor: pointer;
+  backgound-image: url('./assets/trash-solid.svg');
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .todo .remove-btn:hover {
