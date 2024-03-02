@@ -144,6 +144,10 @@ body {
     height: 10%;
   }
 
+  input {
+    font-size: medium;
+  }
+
   .upper-part * {
     font-size: large;
   }
